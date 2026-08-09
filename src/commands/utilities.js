@@ -22,11 +22,7 @@ function help() {
     console.log("delete [..]");
     console.log("info [..]");
     console.log("find [..]");
-    console.log("tree");
     console.log("path [..]");
-    console.log("hash [..]");
-    console.log("compress [..]");
-    console.log("decompress [..]");
     console.log("os");
     console.log("help");
     console.log("clear");
